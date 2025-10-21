@@ -1,0 +1,2 @@
+# optimizacion_ingresos_estadistica
+Income Optimization Statistics Project
